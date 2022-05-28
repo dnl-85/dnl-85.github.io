@@ -48,6 +48,18 @@
       <p>ce site est encore en construction, cependant quelques pages sont déjà disponibles... le reste viendra au fur et à mesure, patience ;)</p>
       <hr>
       <p>le zen du C :</p>
+		  <p>les programmes ici présents peuvent être compilés tel quel, et les commentaires inclus dans chacun d'eux permettent d'en expliquer le fonctionnement.</p>
+		  <p>étant un utilisateur Linux Mint (noyau Debian), j'utilise gcc afin de compiler mes programmes.</p>
+		  <pre><code>
+		  	pour installer gcc depuis $bash :
+			sudo apt-get install gcc
+			
+			la syntaxe pour compiler avec gcc depuis $bash :
+			gcc programme_source.c -o programme_executable -lm
+			
+			note: l'option -lm permet d'intégrer la lib' math.h au programme, si vous vous en servez.
+		  </code></pre>
+		  
       <a href="https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/langC/00100-hello.c">00100 - Hello World !</a><br>
       <a href="https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/langC/00200-math.c">00200 - inclure math.h</a><br>
       <a href="https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/langC/00300-math-time.c">00300 - inclure math.h & time.h</a><br>
