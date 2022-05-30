@@ -4,7 +4,6 @@ syntaxes et exemples de programmes en C & Python3.
 -----  
 [00100-hello.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00100-hello.c)  
 [00200-math.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00200-math.c)  
-[00200-math.c~](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00200-math.c~)  
 [00300-math-time.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00300-math-time.c)  
 [00400-fonctions.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00400-fonctions.c)  
 [00500-multiarray.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00500-multiarray.c)  
