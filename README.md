@@ -12,5 +12,5 @@ syntaxes et exemples de programmes en C & Python3.
 [00800-boucles_for.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00800-boucles_for.c)  
 [00900-caracteres.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00900-caracteres.c)  
 [01000-while.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/01000-while.c)  
------
------
+-----  
+-----  
