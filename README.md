@@ -1,6 +1,6 @@
 
-*dnl-85.github.io* : syntaxes et exemples de programmes en C & Python3.
-site généré par script python, sans OGM & bullshit-free
+*dnl-85.github.io* : syntaxes et exemples de programmes en C & Python3.  
+site généré par script python, sans OGM & bullshit-free  
 -----  
 [00100-hello.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00100-hello.c)  
 [00200-math.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00200-math.c)  
@@ -12,5 +12,4 @@ site généré par script python, sans OGM & bullshit-free
 [00800-boucles_for.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00800-boucles_for.c)  
 [00900-caracteres.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00900-caracteres.c)  
 [01000-while.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/01000-while.c)  
------  
 -----  
