@@ -14,6 +14,10 @@ site généré par script python, sans OGM & bullshit-free
 [00800-boucles_for.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00800-boucles_for.c)  
 [00900-caracteres.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/00900-caracteres.c)  
 [01000-while.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/01000-while.c)  
+[01100-static_variables.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/01100-static_variables.c)  
+[01200-pointeur.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/01200-pointeur.c)  
+[01300-structure.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/01300-structure.c)  
+[01400-reference_arguments.c](https://raw.githubusercontent.com/dnl-85/dnl-85.github.io/main/C/01400-reference_arguments.c)  
 
 - langage Python :
 
